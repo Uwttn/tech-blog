@@ -10,7 +10,7 @@
 [![Forks](https://img.shields.io/github/forks/uwttn/tech-blog.svg?style=plastic&logo=appveyor)](https://github.com/uwttn/tech-blog/network/members)
 [![Stargazers](https://img.shields.io/github/stars/uwttn/tech-blog.svg?style=plastic&logo=appveyor)](https://github.com/uwttn/tech-blog/stargazers)
 
-![tech-blog-demo](./assets/images/demo/tech-blog1.png)
+![tech-blog-demo](./assets/images/demo/tech-blog.png)
 
 </div>
 
