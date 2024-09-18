@@ -1,37 +1,36 @@
 :root {
-    --active-tab-color: #00ADB5; /* Teal color */
-    --highlighted-color: #FFD369; /* Soft yellow */
-    --background-color: #1E1E1E; /* Dark theme background */
-    --text-color: #E0E0E0; /* Light gray text */
-    --border-color: #393E46; /* Mid-gray for borders */
+  --active-tab-color: #00adb5; /* Teal color */
+  --highlighted-color: #ffd369; /* Soft yellow */
+  --background-color: #1e1e1e; /* Dark theme background */
+  --text-color: #e0e0e0; /* Light gray text */
+  --border-color: #393e46; /* Mid-gray for borders */
 }
 
-
 nav {
-    display: flex;
-    justify-content: start;
-    border: solid 5px var(--border-color);
-    border-radius: 10px;
-    margin-bottom: 5px;
-    
-    a{
-        display: inline-flex;
-    }
-    
-    li{
-        color: var(--text-color);
-        list-style-type: none;
-        padding: 10px;
-    }
-    
-    li:hover{
-        background-color: var(--highlighted-color);
-        color: black;
-        border-radius: 20px;
-        font-weight: bold;
-    }
+  display: flex;
+  justify-content: start;
+  border: solid 5px var(--border-color);
+  border-radius: 10px;
+  margin-bottom: 5px;
+
+  a {
+    display: inline-flex;
+  }
+
+  li {
+    color: var(--text-color);
+    list-style-type: none;
+    padding: 10px;
+  }
+
+  li:hover {
+    background-color: var(--highlighted-color);
+    color: black;
+    border-radius: 20px;
+    font-weight: bold;
+  }
 }
 
 body {
-    background-color: var(--background-color);
+  background-color: var(--background-color);
 }
