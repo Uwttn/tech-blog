@@ -33,6 +33,7 @@
     align-items: center;
     height: auto;
     max-width: 450px;
+    max-height: 450px;
     flex-wrap: wrap;
 
     @media (max-width: 700px) {
