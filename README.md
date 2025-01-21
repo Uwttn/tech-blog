@@ -10,8 +10,22 @@
 [![Forks](https://img.shields.io/github/forks/uwttn/tech-blog.svg?style=plastic&logo=appveyor)](https://github.com/uwttn/tech-blog/network/members)
 [![Stargazers](https://img.shields.io/github/stars/uwttn/tech-blog.svg?style=plastic&logo=appveyor)](https://github.com/uwttn/tech-blog/stargazers)
 
+<style>
+    .image {
+    width: 1000px;
+    transition: transform 0.3s ease;
+}
+
+image:hover {
+    transform: scale(2);
+}
+</style>
+
+<div class="image">
+
 [![tech-blog-demo](./images/demo/tech-blog.png)](https://uwttn.github.io/tech-blog/)
 
+</div>
 </div>
 
 In development...
