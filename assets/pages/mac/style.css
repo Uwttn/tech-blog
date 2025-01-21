@@ -1,0 +1,23 @@
+#homebrew {
+  width: 20px;
+  height: 20px;
+  transition: transform 0.3s ease;
+}
+
+#homebrew:hover {
+  transform: scale(2);
+}
+
+.preview {
+  display: flexbox;
+  text-align: left;
+  width: 400px;
+  li {
+    display: flexbox;
+    list-style: decimal;
+}
+}
+
+.content {
+  font-size: 18px;
+}
